@@ -10,11 +10,11 @@ SSD1X06	KEYWORD1
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-Enable	KEYWORD2
-Stop	KEYWORD2
-Disable	KEYWORD2
-TurnLeft	KEYWORD2
-TurnRight	KEYWORD2
+start KEYWORD2
+fillDisplay KEYWORD2
+displayString6x KEYWORD2
+displayByte KEYWORD2
+drawLine	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
